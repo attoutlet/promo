@@ -78,6 +78,7 @@ slide:nth-child(7) {
 }
 
 slide:nth-child(8) {
+  left : 0%;
   animation-delay : 35s ;
   background-image : url (8.jpg)
   background-size : cover ;
